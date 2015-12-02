@@ -5,4 +5,4 @@ git track 123
 create dev branc  (master) fenzhi
 dev branch
 test stash
-woshi vm1 ,modify
+woshi vm1 ,modify & vm2
